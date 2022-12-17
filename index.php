@@ -18,7 +18,7 @@
             <header class="pb-3 mb-4 border-bottom">
                 <img src="asset/img/opl.png" alt="Logo Osis" width="100px">
                 <img src="asset/img/Osis.png" alt="Logo Osis" width="100px"><br>
-                <span class="fs-4">Sistem Penunjang Keputusan Pemilihan OSIS</span>
+                <span class="fs-4">Sistem Penunjang Keputusan Pemilihan Kandidat OSIS</span>
                 <p class="fs-4">SMPN 1 Parungpanjang</p>
             </header>
 

@@ -27,7 +27,7 @@
             if ($key < 2) continue;
 
             if (!is_numeric($row[3]) OR !is_numeric($row[4]) OR !is_numeric($row[5]) OR !is_numeric($row[6]))
-                throw new Exception("Format input data tidak sesuai dengan ketentuan", 0);
+                continue;
 
             $siswa          = array();
             $siswa['nama']  = $row[2];
